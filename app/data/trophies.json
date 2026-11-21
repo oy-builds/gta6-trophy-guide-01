@@ -1,0 +1,853 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "hidden": false,
+   "kind": "story",
+   "missable": false,
+   "stage": 5,
+   "guide": "The platinum is the capstone of the whole list: it is awarded once the other 54 trophies have been earned, and there is nothing separate to do for it. Plan your run around the two golds - the final mission and 100% completion - because they gate everything else, and use this tracker to confirm no bronze is left hiding in a category you stopped checking. When every other row here is ticked, this one follows on its own.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy for the mission named in the description, Gone Fishing, which the official list's own notes call the opening mission. Start a new game and play through the introduction; the trophy unlocks as the mission completes. Nothing needs preparing and nothing before it can be missed - it is the first thing the campaign asks you to do.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy: play the main campaign until Chapter 1 ends and it unlocks on completion. Chapter trophies arrive in order as you follow the story markers, so there is no separate task - if it has not popped, a Chapter 1 mission is still unfinished. Side content can be done whenever you like; it does not block the chapter from closing.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy: finish Chapter 2 of the campaign. The name is printed exactly as PlayStation publishes it, asterisks included. Keep following the main story after Chapter 1 and the trophy unlocks when the chapter closes; nothing in the official description suggests a choice or a one-off moment inside the chapter that could lock it away.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy: finish Chapter 3 of the campaign. As with the earlier chapters, progress is linear - work through the chapter's story missions and the trophy unlocks at its end. If you are following this guide's roadmap, this is a natural stopping point to sweep any collectibles in the areas the story has opened so far.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy: finish Chapter 4 of the campaign. Play the story missions through to the end of the chapter. Because the final mission lies ahead, this is a good moment to make a separate manual save: a save from before the endgame protects everything else on the list if the ending changes what you can still do in the world.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "The gold story trophy: complete the final mission of the campaign. Before you start it, save in a separate slot and finish any scene-specific trophies you still owe (see the Missables view) - the official description names a final mission, and endings are the classic point of no return. Once the credits have run, this unlocks; whatever the game still lets you do afterwards is mop-up time.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy for the mission named in the description, Breakfast Run. It sits in the main campaign's mission chain, so playing through the story unlocks it on completion - there is no optional branch to hunt for. If you are replaying or chapter-selecting later, this is one of the named missions to look for.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy for the mission named in the description, The Cartel Heist. Heists are set-piece story missions, so this unlocks by playing the campaign through that mission. Prepare the way you would for any big job the story hands you - arrive stocked and with a save from before it starts, so a failed attempt costs nothing.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy for the mission named in the description, Child's Play. Follow the main story and it unlocks when the mission ends. The official description gives no optional condition - no medal, no time limit, no choice - so completion alone is the whole requirement.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy for the mission named in the description, Headliners. Play the campaign until this mission appears and finish it. As with the other named-mission trophies, the description asks only for completion, so any approach the mission itself allows is good enough.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy for the mission named in the description, VCIA Takedown. Finish the mission as the campaign presents it. Note the place name: VCIA also appears in the description of Catch Me If You Can, a scene-specific trophy flagged in this guide as potentially missable - while the story takes you there, it is worth experimenting with how you leave.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "guide": "A story trophy for the mission named in the description, Operation Savage Glory. Play through the campaign and it unlocks on completion. The description sets no extra condition, so focus on finishing the mission rather than on style or speed.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "guide": "The long haul, and the list's second gold: the game's own completion counter must reach 100%. Everything the game counts toward completion feeds this - story, strands, activities and collectibles - so treat the rest of this tracker as its checklist. Work the roadmap in order, and when the percentage stalls, use the game's completion screen to see which category is still short rather than re-checking finished ones.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete 250 stunts, a total PlayStation tracks for this trophy. Stunts are a repeatable free-roam activity, so the efficient approach is to start early: take stunt opportunities as they appear during normal travel instead of grinding all 250 at the end of the game. Check your running total on the trophy's progress counter whenever a session ends so the remainder never surprises you.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 250
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Try each type of activity once - the official list counts 9 activity types. You do not need to win or finish them; a single genuine attempt at each type registers it. Work down the activity types the game offers as the map opens up, and if one type is still missing late in the game, it is most likely a type that only unlocks in an area or strand you have not reached yet.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 9
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Earn a gold medal in every Shooting Range challenge - 42 challenges, the count PlayStation tracks. This is a skill trophy rather than a grind: repeat a challenge until its gold score becomes routine before moving on, and leave the hardest ones until your aim settings feel right. Because each challenge can be retried on its own, none of it is missable; work through the range methodically, challenge by challenge.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 42
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Win a Top Fun drone race at every location - 14 locations on the official list. Winning once at a location is enough; you do not need to clear every race the location offers. Learn each course with a practice run if the game allows one, and keep a note of which locations are done - this tracker plus the count of 14 is your checklist.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 14
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Win 20 different races. The word that matters is 'different': repeating one easy race twenty times does not build the total, so keep moving to new races as they appear. Any race type counts toward the 20 as far as the description says, so pick up races during the story and the strands instead of leaving them all for the mop-up.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 20
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Beat Cal in a fishing challenge. Fishing is one of the activity types on this list, so get comfortable with it first - the Master of None trophy already asks you to sample it once. When Cal's challenge is available, take it on with that practice behind you; the description asks only that you beat him, not that you land any particular catch.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete an arcade game. Playing one is not enough - the description says complete, so pick an arcade game and play it through to its end or win state. It is a one-and-done trophy: the shortest arcade game you can find is the sensible choice.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete the final mission for Andy - that is, work through Andy's strand of missions to its last one and finish it. Strands unfold one mission at a time, so if the final mission has not appeared, an earlier mission for Andy is still outstanding. Finishing named characters' strands also builds toward the Strangers & Freaks trophy, which counts completed strands.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete the final mission for Kenton: follow Kenton's strand through to its concluding mission and finish it. As with the other named characters, the strand's missions unlock in sequence, so steady progress through the strand is the whole method. The finished strand counts toward the 8 strands Strangers & Freaks asks for.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete the final mission for Billy: play Billy's strand to its end and finish the last mission. If you cannot find the next step, check the map and your contacts after story progress - strands commonly wait on campaign progress before their next mission appears. The completed strand also feeds the Strangers & Freaks count.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete 8 mission strands for strangers across the state of Leonida. A strand only counts when it is finished, not merely started, so push strands to completion instead of opening many at once. The named characters elsewhere on this list - Andy, Kenton, Billy, Randy and Tyrone - have strands with their own final-mission trophies, which makes them the natural first five; three more strands of your choosing complete the eight.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 8
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete the final mission for Randy: work Randy's strand through its sequence of missions and finish the last one. The strand counts toward Strangers & Freaks once it is complete. If the strand stalls, advance the main story and check back - side strands often gate their next step behind campaign progress.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete the final mission for Tyrone: play Tyrone's strand to its final mission and complete it. Keep the strand moving whenever a new step appears so it does not get buried under later content, and remember the finished strand is one of the eight Strangers & Freaks needs.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 2,
+   "guide": "Meditate at every meditation spot across Leonida - 18 spots on the official list. Treat this as a collectible sweep: clear the map region by region rather than chasing single spots across the state, and meditate the moment you reach a spot instead of marking it for later. Your progress counter against 18 tells you exactly how many remain.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 18
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Hunt a unique animal for Bret. 'Unique' means one specific animal, not a species quota: take the hunt from Bret and follow it through to the kill. Prepare as you would for any hunt the game sets you, and do not leave the hunt half-finished - a one-off quarry is exactly the kind of task to complete in a single sitting once it is offered.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 2,
+   "guide": "Complete 3 Collectible Card sets. Cards are collectibles, and the trophy counts completed sets, not individual cards - so a card that finishes a set is worth more to you than a card that starts a new one. Track which sets are closest to complete and prioritise their missing cards; three finished sets, not a large scattered pile, is the goal.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 3
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 2,
+   "guide": "WAiNK It at 100 locations - a tracked count of 100 distinct places. Whatever the WAiNK It action is in the game's world, the method is the same as any location collectible: do it whenever you arrive somewhere new rather than saving it for a dedicated sweep, and let the progress counter confirm each new location registered.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 100
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Complete 50 Challenges. Challenges are the game's short-form tasks, and they accumulate across everything else you do for this list, so check the counter before grinding: most players will be closer than they think by the mop-up stage. If you are short at the end, take on the quickest remaining challenges rather than the most prestigious ones.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 50
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Build the wanted level up to four stars while your partner is with you, then break line of sight and stay hidden until the level clears - the trophy needs the escape, not a shootout won. Set it up somewhere with room to run and more than one way out, and make sure your partner stays with you for the whole sequence, since the description requires the escape to happen together.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. The chain is the hard part: once the first robbery raises your wanted level, you must reach and rob the next two shops while it is still active. Plan the route before you start - three shops close together, a fast vehicle waiting, and your partner with you throughout, as the description requires.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 3
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 2,
+   "guide": "Discover 100 vehicles. Discovery is about variety: get into vehicles you have not used before whenever they cross your path, and vary where you drive, because different areas carry different traffic. One hundred distinct vehicles is a long tail, so start from the beginning of the game rather than hunting the last few at the end.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 100
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. The setup matters more than the shooting: do not trigger Combat Focus on the first enemy you see. Wait until at least five enemies are in play and within reach, then activate it and work through them before it expires. A failed attempt costs nothing - let a busy fight build up and try again.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 5
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": true,
+   "stage": 1,
+   "guide": "Make an unscheduled departure at VCIA - in other words, leave the place by a way nobody planned. Flagged as potentially missable in this guide: the flag is inferred from the official description, which describes a one-off scene at a named location rather than a repeatable activity, and the story mission VCIA Takedown takes you there. When you are at VCIA, experiment with leaving off-script - an unplanned exit in a vehicle you were not handed - before the visit ends, and keep a save from before the mission so you can try again.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "The published description is a riddle - 'Kinda hot in these Rhinos' - and the official list's own notes gloss Rhinos as tanks. This is a hidden-style trophy, so the honest guide is: expect an encounter involving Rhino tanks, and be ready for it when it comes - arrive with your health, armour and heavy options in good shape rather than improvising. Beyond what the description says, no sourced detail exists to repeat here.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Rob a jewelry store without being detected. Stealth is the whole requirement: get in, take what the robbery offers, and get out with nobody raising the alarm. Scout the store first, move only when you are unobserved, and if you are spotted, do not force it - leave, let things cool down, and make a clean attempt rather than finishing a blown one.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Rob 5 Bank Vaults and escape - five separate vault robberies, each finished with a successful escape. A robbery where you are caught does not move the counter, so plan the getaway before the robbery: vehicle placed, route in mind. Five escapes is a routine you will get better at; spread them through your playthrough or chain them in the mop-up.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 5
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Rob an Armored Truck and escape. Armored trucks are tougher targets than shops: expect resistance getting the money out, and have your escape vehicle and route ready before you make your move. Once the cash is yours, lose the heat - the trophy needs the escape as well as the robbery.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 2,
+   "guide": "Explore all of Leonida - the official list counts 52 areas. Exploration registers as you enter and uncover each area, so the method is systematic travel: sweep the map region by region, including the outskirts you have no story reason to visit. Leave this until you have fast ways to cross the state, and use the count of 52 to confirm nothing is left dark.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 52
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Rob an Illegal Operation belonging to each gang - one operation per gang, 9 gangs on the official list. Variety is the requirement: robbing the same gang twice does not advance it. Keep track of which gangs you have hit (this tracker's notes are a good place), and expect each gang's operation to be defended in its own way.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 9
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": true,
+   "stage": 1,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. The trophy's name - 'In The Beginning...' - and the description's very specific scene mark this as a moment rather than a repeatable activity, so it is flagged as potentially missable in this guide; the flag is inferred from the official description. When you are on Ocean Beach early in the game, take the cocktail with the view while the moment is there, and do not assume the scene will still be offered after the story moves on.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": true,
+   "stage": 1,
+   "guide": "Smash your way out of a vehicle showroom in classic style: get into a vehicle inside a showroom and drive out through the front, glass and all, rather than using the door like a customer. Flagged as potentially missable in this guide - the flag is inferred from the official description, which describes a specific set-piece scene. If a mission or strand takes you into a showroom, that visit is your moment; keep a save beforehand.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": true,
+   "stage": 1,
+   "guide": "The description asks for a 'follow-through' at the Kolt & Associates' bowling alley - a bowling action completed properly at that named alley, not at any lane in Leonida. Flagged as potentially missable in this guide: the flag is inferred from the official description, which ties the act to one specific place and moment. When the game takes you to that alley, bowl while you are there instead of planning to come back later.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": true,
+   "stage": 1,
+   "guide": "The published description is cryptic - 'A partnership with mass appeal' - and names no action, so this guide will not invent one. It is flagged as potentially missable here, inferred from the official description: a one-off partnership moment rather than a repeatable task. Play through the partner content the game offers, keep rotating manual saves as the story advances, and if a scene presents a choice involving your partner, make a save first so you can revisit it.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "The description is terse - 'Choices made (for better or worse)' - and the official list's notes add the key fact: PlayStation tracks a count that runs to 500. So this is a long-tail trophy earned by making choices whenever the game offers them, across the whole playthrough, rather than by any single decision. Never skip a choice the game presents you, and check the tracked counter from time to time so you know whether your pace is on track for 500.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 500
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Another riddle of a description: 'Second time's the charm.' The natural reading is that something must be succeeded at on the second attempt after a first failure. Do not reload the moment something goes wrong - let a failure stand, take the retry the game offers, and succeed on it. If you play the whole game without ever failing once, deliberately failing a small, cheap attempt and then succeeding is the way to arrange it.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "The description - 'What the hell just happened?' - tells you this trophy is about witnessing something strange. There is no sourced location or step to give you, and this guide will not invent one. The preparation that follows from the description is exploration: roam, linger in odd corners of Leonida, and investigate anything out of place rather than fast-travelling past it. Strange events reward the players who are physically there to see them.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Bowl 'em over with a melee drive-by: from a moving vehicle, strike a person with a melee attack as you pass so they go down. Drive-by melee needs the right pass - line up a lone pedestrian, keep your speed moderate so the swing connects, and swing as you draw level. It may take a few passes; a miss costs nothing but the attempt.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. This is a cumulative money target, not a single score: every batch of marked bills you pass through your contacts adds to the total. Make laundering a habit whenever marked bills come into your hands rather than a final grind, and watch the running total - $250,000 is large enough that starting early is the difference between a routine trophy and a chore.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 250000
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Spend $100,000 across all shops. Cumulative spending anywhere in the game's shops counts, so this arrives naturally if you buy as you play - vehicles, gear, property extras, whatever the shops sell. If you are short late in the game, spend on things the rest of the list needs anyway (garages feed Little Boxes) rather than buying things you will never use.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 100000
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Purchase all garage properties - 8 garages on the official list. This is a money trophy in disguise: the garages cannot be bought until you can afford them, so earn first (laundering and robberies elsewhere on this list pay well) and buy each garage as it becomes affordable instead of hunting for a discount that the description never mentions. Eight purchases, then it pops.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 8
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "guide": "Register 10 vehicles to the Scooter Bros app. Whenever you acquire a vehicle you intend to keep, register it in the app there and then; ten registrations accumulate quickly if it becomes a habit from your first vehicles. Any vehicles count as far as the description says, so register cheap and ordinary ones too - there is no need to save the slots for anything special.",
+   "sources": [
+    "Official PS5 trophy list (PlayStation), as listed by Exophase",
+    "PSNProfiles trophy list"
+   ],
+   "count": 10
+  }
+ ]
+}
