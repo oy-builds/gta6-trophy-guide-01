@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-text">
+    <p class="kicker">Grand Theft Auto VI · PlayStation 5 · Offline guide &amp; tracker</p>
+    <h1>Leonida Legend</h1>
+    <p class="sub">All 55 trophies with a cited guide for each, a roadmap to the platinum, and every missable flagged.</p>
+  </div>
+  <div class="progress-box">
+    <div class="progress-line"><span id="progress-count">0 of 55 earned</span><span id="progress-pct">0%</span></div>
+    <div class="progress-track"><div id="progress-bar"></div></div>
+    <p id="grade-counts" class="grade-counts"></p>
+  </div>
+</header>
+
+<nav class="view-tabs" aria-label="Views">
+  <button type="button" data-view="checklist" class="tab active">Checklist</button>
+  <button type="button" data-view="roadmap" class="tab">Roadmap</button>
+  <button type="button" data-view="missables" class="tab">Missables <span id="missable-badge" class="badge"></span></button>
+</nav>
+
+<section class="toolbar" id="toolbar">
+  <label class="field grow">Search
+    <input id="search" type="search" placeholder="Trophy, mission, activity...">
+  </label>
+  <label class="field">Kind
+    <select id="kind-filter">
+      <option value="all">All kinds</option>
+      <option value="story">Story</option>
+      <option value="missable">Missable</option>
+      <option value="collectibles">Collectibles</option>
+      <option value="activities">Activities</option>
+      <option value="online">Online</option>
+    </select>
+  </label>
+  <label class="field">Grade
+    <select id="grade-filter">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label class="check"><input id="spoiler-toggle" type="checkbox"> Spoiler shield: hide story trophies until earned</label>
+  <label class="check"><input id="hide-earned-toggle" type="checkbox"> Hide earned</label>
+  <div class="io-buttons">
+    <button id="export-btn" type="button">Export progress</button>
+    <label class="import-label">Import progress <input id="import-file" type="file" accept="application/json"></label>
+  </div>
+</section>
+
+<main>
+  <section id="view-checklist" class="view">
+    <div class="layout">
+      <div class="list-pane">
+        <p id="list-summary" class="list-summary"></p>
+        <ul id="trophy-list" class="trophy-list"></ul>
+      </div>
+      <aside id="detail" class="detail" aria-live="polite">
+        <p class="detail-hint">Select a trophy to read its guide and sources.</p>
+      </aside>
+    </div>
+  </section>
+
+  <section id="view-roadmap" class="view" hidden>
+    <div id="roadmap"></div>
+  </section>
+
+  <section id="view-missables" class="view" hidden>
+    <p class="view-intro">These trophies are flagged as potentially missable. Each flag is inferred from the official
+    description, which describes a one-off scene rather than a repeatable activity — the guide for each says so.
+    Keep a manual save before the scenes they name.</p>
+    <ul id="missable-list" class="trophy-list"></ul>
+  </section>
+</main>
+
+<footer>
+  <p>Trophy names, descriptions and grades are the official PlayStation 5 list, as published by PlayStation and
+  listed by Exophase and PSNProfiles. Guides are written for this tracker and cite their sources on every trophy.
+  An unofficial fan-made guide; not affiliated with Rockstar Games or PlayStation.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
